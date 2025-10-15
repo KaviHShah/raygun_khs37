@@ -248,3 +248,5 @@ Everything in this repository is licensed under the CC-BY-NC-SA 4.0 license. In 
 
  - For-profit organizations are allowed to use Raygun for public-domain outputs, such as publications or preprints. Additionally, these organizations are granted a 60-day trial license for internal evaluation purposes. Continued use beyond the trial period or for any commercial activities will require a separate license agreement.
 
+
+
