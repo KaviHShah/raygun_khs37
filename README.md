@@ -4,6 +4,8 @@ This is in modelv3 and is known at the moment as:
 
 ReductionAndExpansionAreaResamp(nn.Module)
 
+This function enables both reduction and expansion to any size as well as ratio wise expansion or reduction - e.g. half len , double len etc. It also removes the minimum limit that meant that input sequences had to be larger than the fixed size representation. 
+
 Need to implement and test this function into the raygun context
 
 In notebooks I have also added a tutorial single doc overview of the model that I made while going over the model: khs_raygun_recap.ipynb
